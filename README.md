@@ -24,12 +24,12 @@ The analysis revealed that factors such as age, BMI, blood pressure, and family 
 
 ## Conclusion
 This project not only provided valuable insights into the key factors influencing diabetes but also demonstrated my ability to perform comprehensive data analysis and build predictive models. It has practical relevance in healthcare for identifying high-risk individuals and guiding preventative measures.
+## How to Clone and Run the Project
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash git clone https://github.com/Inderjit243/Diabetes_Risk_Factors_Analysis.git
-   cd diabetes-risk-analysis
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/diabetes-risk-analysis.git
+cd diabetes-risk-analysis
 pip install -r requirements.txt
 jupyter notebook Diabetes_Risk_Analysis.ipynb
 
-   
