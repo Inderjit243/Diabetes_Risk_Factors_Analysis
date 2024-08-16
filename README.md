@@ -27,6 +27,9 @@ This project not only provided valuable insights into the key factors influencin
 
 ## How to Run the Project
 1. Clone the repository:
-   ```bash
-  git clone https://github.com/Inderjit243/Diabetes_Risk_Factors_Analysis.git
+   ```bash git clone https://github.com/Inderjit243/Diabetes_Risk_Factors_Analysis.git
+   cd diabetes-risk-analysis
+pip install -r requirements.txt
+jupyter notebook Diabetes_Risk_Analysis.ipynb
+
    
